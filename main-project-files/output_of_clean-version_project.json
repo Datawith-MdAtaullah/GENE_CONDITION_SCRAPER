@@ -1,0 +1,34 @@
+[
+  {
+    "gene": "AAAS",
+    "conditions": [
+      "Triple A syndrome"
+    ]
+  },
+  {
+    "gene": "AASS",
+    "conditions": [
+      "Hyperlysinemia"
+    ]
+  },
+  {
+    "gene": "ABAT",
+    "conditions": [
+      "GABA-transaminase deficiency"
+    ]
+  },
+  {
+    "gene": "ABCA1",
+    "conditions": [
+      "Familial HDL deficiency",
+      "Tangier disease"
+    ]
+  },
+  {
+    "gene": "ABCA3",
+    "conditions": [
+      "Surfactant dysfunction",
+      "Idiopathic pulmonary fibrosis"
+    ]
+  }
+]
