@@ -71,7 +71,7 @@ The scraper produces results like this:
                         }
                       ]
 ```
-##📝 **Notes**
+## 📝 **Notes**
 
 1. Use Jupyter Notebook for the clearest, step-by-step workflow.
 
